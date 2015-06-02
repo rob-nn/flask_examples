@@ -58,3 +58,4 @@ target/
 
 # Python virtualenv directory
 env/
+*.swp
